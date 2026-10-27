@@ -28,12 +28,18 @@ and I love sharing them with the community so they can help you too.
 
 ## 🚀 Featured project
 
-### [📋 ClipStack](https://github.com/Zh0du/clipstack)
+<a href="https://github.com/Zh0du/clipstack">
+  <img src="https://raw.githubusercontent.com/Zh0du/clipstack/main/assets/logo.png" width="96" align="left" alt="ClipStack logo">
+</a>
+
+### [ClipStack](https://github.com/Zh0du/clipstack)
 
 A free, open-source clipboard manager for macOS. It keeps everything you copy (text, images, files and screenshots)
 and lets you paste any of it with `⇧⌘V`. Available in English, 中文, हिन्दी and Español.
 
 **[⬇️ Download for macOS](https://github.com/Zh0du/clipstack/releases/latest/download/ClipStack.dmg)**
+
+<br clear="left">
 
 ## 🤝 Let's connect
 
