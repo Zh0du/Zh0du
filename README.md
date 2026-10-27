@@ -35,7 +35,7 @@ and I love sharing them with the community so they can help you too.
 ### [ClipStack](https://github.com/Zh0du/clipstack)
 
 A free, open-source clipboard manager for macOS. It keeps everything you copy (text, images, files and screenshots)
-and lets you paste any of it with `⇧⌘V`. Available in English, 中文, हिन्दी and Español.
+and lets you paste any of it with `⇧⌘V`. Available in English and Español, and [open to translations](https://github.com/Zh0du/clipstack#help-translate-clipstack).
 
 **[⬇️ Download for macOS](https://github.com/Zh0du/clipstack/releases/latest/download/ClipStack.dmg)**
 
